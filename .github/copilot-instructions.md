@@ -1,0 +1,5 @@
+- Projeto: protótipo web em JavaScript com Vite.
+- Objetivo: RPG de sobrevivência com um personagem jogável e acampamento autônomo.
+- Priorizar prototipagem rápida com gráficos desenhados por código antes de usar assets externos.
+- Manter arquitetura simples, arquivos pequenos e sem dependências desnecessárias.
+- Ao adicionar arte futura, preferir placeholders próprios e facilmente substituíveis.
